@@ -126,3 +126,5 @@
    - Create a pie chart showing the proportion of electricity consumption by industry for H1 2023
    - Label the chart with electricity consumption values and percentages
    - Export the chart as 6-4.jpg
+### Special Instructions
+  This is a domestic company's internal selection of data analysis pen test questions, mainly using pandas for data analysis is very suitable for novice practice. However, because the relevant confidentiality regulations only disclose the implementation code, the data is not visible. If you need it, You must provide a reasonable reason.
